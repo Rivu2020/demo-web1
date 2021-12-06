@@ -1,0 +1,75 @@
+body{ background-color: #e4f9f5;
+    text-align: center;
+    margin: 0;
+}
+h1{ position: relative;
+    font-size: 65px;
+   
+    font-family: 'Amaranth';
+    top: 66px;
+    }
+    h2{ position: relative;
+        font-size: 55px;
+        
+        font-family: 'Amaranth';
+    }
+    h3{font-family: 'Amaranth';
+        font-size: 43px;
+        
+    }    
+p{
+    font-family: 'Amaranth';
+}
+.bottom-cloud{
+    position: absolute;
+    top: 161;
+    margin-left: 504px;
+    height: 85px;
+}
+.top-cloud{
+    position: absolute;
+    margin-left: -514px;
+    margin-top: 32px;
+    height: 85px;
+}
+span{
+    text-decoration: underline;
+}
+
+#bio{ position: relative;
+    font-size: 38px;
+   
+    font-family: 'Amarante';
+    top: 48px;
+}
+.top-container{
+    padding: 0px;
+    position: relative;
+    padding-top: 110px;
+    padding-bottom: 60px;
+}
+.mountain{
+    position: relative;
+    padding-top: 68px;
+    padding-bottom: 70px;
+    width: 35vw;
+}
+
+
+.man{
+    height: 40vh;
+}
+.skill-1{
+    height: 40vh;
+}
+.skill-2{
+height: 40vh;
+}
+.profile{
+    padding-bottom: 70px;
+}
+.thanks{
+    font-size: 6vw;
+}
+
+
